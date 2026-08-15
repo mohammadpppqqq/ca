@@ -29,4 +29,4 @@ android.minapi = 23
 
 android.archs = arm64-v8a
 
-android.permissions = INTERNET 
+android.permissions = INTERNET
